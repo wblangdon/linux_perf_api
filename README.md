@@ -25,3 +25,9 @@ Examples:
   
   run_me() took 11 instructions
 ```
+
+Examples from "Population Diversity, Information Theory and Genetic Improvement"
+William B. Langdon and David Clark. In EuroGP-2025, Bing Xue, Luca Manzoni, Illya Bakurov _Eds._,
+Trieste.
+23-25 April 2025.
+Springer.
