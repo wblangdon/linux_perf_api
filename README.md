@@ -31,3 +31,5 @@ William B. Langdon and David Clark. In EuroGP-2025, Bing Xue, Luca Manzoni, Illy
 Trieste.
 23-25 April 2025.
 Springer.
+
+triangle.c source code and tests cases in https://github.com/wblangdon/triangle
